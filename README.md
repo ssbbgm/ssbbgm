@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ssbbgm/ssbbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/#0A66C2.svg" />[linkedin]
+# Good Money, Y'all!:copyright: :money_mouth_face:
 
-[linkedin]: https://linkedin.com/in/sherreka-burton
+## :speech_balloon: About Me 
+
+✌🏾 My name is Sherreka Burton. Nice to digitally meet you! 
+
+💖 I am a passionate knowledge seeker and knowledge sharer, especially on behalf of the underserved. ✊🏾 
+
+👩🏾‍🏫 I am a firm believer in “If I don’t know it now, trust and believe, I will know it soon!” My main goal in life is to take complex information and demystify it for the interested, yet uninformed. :brain:
+
+👩🏾‍🎓 I am currently learning web development from Georgia Institute of Technology’s Full-Stack Web Development bootcamp. I will take this information and combine it with my previous experience in sales, customer service, and financial education in order to make the world a better place. :earth_africa:
+
+ :eyes: May I help your organization accomplish this? If so, let’s make it happen! 💪🏾
+
+👩🏾‍💻 When I'm not coding, I am either:
+```
+
+📚 Reading
+🗣 Learning Spanish
+🍕 Eating
+🚶🏾‍♀️ Going for a walk
+🛫 Traveling
+📈 Learning about the stock market
+📹 Working on my YouTube Channel
+```
+
+## Skills
+
+
+```
+
+- HTML5 
+- CSS
+- JavaScript
+- JQuery
+- Bootstrap
+- Visual Studio Code
+- Web and Third-Party APIs
+```
+
+
+## Contact Me
+
+<a href="https://linkedin.com/in/sherreka-burton"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/RekaCodes"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://youtube.com/c/RekaDarnB86"><img src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a>
+<a href="mailto:ssburto825@gmail.com"><img src="https://img.icons8.com/emoji/48/000000/e-mail.png"/></a>
+
+
