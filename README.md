@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/#0A66C2.svg" />[linkedin]
+
+[linkedin]: https://linkedin.com/in/sherreka-burton
