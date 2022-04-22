@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ✌🏾 My name is Sherreka Burton. Nice to digitally meet you! 
 
-💖 I am a passionate knowledge seeker and knowledge sharer, especially on behalf of the underserved. ✊🏾 
+💖 I am a results-driven, full-stack web developer with an MBA from the University of Baltimore. I am a passionate knowledge seeker and knowledge sharer, especially on behalf of the underserved. ✊🏾 
 
 👩🏾‍🏫 I am a firm believer in “If I don’t know it now, trust and believe, I will know it soon!” My main goal in life is to take complex information and demystify it for the interested, yet uninformed. :brain:
 
-👩🏾‍🎓 I am currently learning web development from Georgia Institute of Technology’s Full-Stack Web Development bootcamp. I will take this information and combine it with my previous experience in sales, customer service, and financial education in order to make the world a better place. :earth_africa:
+👩🏾‍🎓 . I am a pending graduate of Georgia Institute of Technology’s Full-Stack Web Development bootcamp. My coding skill set includes HTML5, CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Firebase, Ionic Mobile Framework, NodeJS, MySQL, MongoDB, Express, and HandlebarsJS. I will take this information and combine it with my previous experience in sales, customer service, and financial education in order to make the world a better place. :earth_africa:
 
  :eyes: May I help your organization accomplish this? If so, let’s make it happen! 💪🏾
 
