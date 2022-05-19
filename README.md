@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 👩🏾‍🏫  I am a firm believer in “If I don’t know it now, trust and believe, I will know it soon!” My main goal in life is to take complex information and demystify it for the interested, yet uninformed. :brain:
 
-👩🏾‍🎓  I am a pending graduate of Georgia Institute of Technology’s Full-Stack Web Development Professional Development Professional Certification. My coding skill set includes HTML5, CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Firebase, Ionic Mobile Framework, NodeJS, MySQL, MongoDB, Express, and HandlebarsJS. I will take this information and combine it with my previous experience in sales, customer service, and financial education in order to make the world a better place. :earth_africa:
+👩🏾‍🎓   My coding skill set includes HTML5, CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Firebase, Ionic Mobile Framework, NodeJS, MySQL, MongoDB, Express, and HandlebarsJS. I will take this information and combine it with my previous experience in sales, customer service, and financial education in order to make the world a better place. :earth_africa:
 
  :eyes: May I help your organization accomplish this? If so, let’s make it happen! 💪🏾
 
